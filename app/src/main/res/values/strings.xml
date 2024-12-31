@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoNote</string>
+    <string name="photo_content_description">Photo</string>
+    <string name="delete_note">Delete note</string>
+</resources>
